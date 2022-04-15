@@ -1,4 +1,4 @@
-const Total = (parts ) => {
+const Total = ({parts}) => {
     return(
         <p>
             {/* sum of exercise values - array element */}

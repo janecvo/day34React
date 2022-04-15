@@ -3,7 +3,7 @@ const Part = ({part}) => {
         <p>
             Section Title: {part.title} 
             <br></br>
-            Number of exercises: { part.exercises}
+            Number of exercises: {part.exercises}
         </p>
     );
 };
