@@ -1,9 +1,9 @@
-const Total = (props) => {
+const Total = (parts ) => {
     return(
         <p>
             {/* sum of exercise values - array element */}
             Total Number of Exercises: {''}
-            {props.count[0].exercises + props.count[1].exercises + props.count[2].exercises}
+            {parts[0].exercises + parts[1].exercises + parts[2].exercises}
         </p>
     );
 };

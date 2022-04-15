@@ -1,11 +1,11 @@
-const Part = (props) => {
+const Part = ({part}) => {
     return (
         <p>
-            Section Title: {props.content.title} 
+            Section Title: {part.title} 
             <br></br>
-            Number of exercises: {props.content.exercises}
+            Number of exercises: { part.exercises}
         </p>
     );
 };
-
+npm
 export default Part;
