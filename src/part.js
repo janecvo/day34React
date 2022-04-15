@@ -1,8 +1,9 @@
 const Part = (props) => {
     return (
         <p>
-            {props.content.title} 
-            {props.content.exercises}
+            Section Title: {props.content.title} 
+            <br></br>
+            Number of exercises: {props.content.exercises}
         </p>
     );
 };
