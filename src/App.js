@@ -8,15 +8,15 @@ const App = () => {
     name:'Half Stack Application Development',
     parts: [
       { 
-        name:'Fundamentals of React', 
+        title:'Fundamentals of React', 
         exercises: 10,
       },
       {
-        name:'Using Props to Pass Data',
+        title:'Using Props to Pass Data',
         exercises: 7,
       },
       {
-        name:'State of a Component',
+        title:'State of a Component',
         exercises: 14,
       },
     ],
