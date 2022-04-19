@@ -1,4 +1,4 @@
-//1.1 Step 1
+//1.1 Step 1 - Edited
 // import React from 'react'
 
 // const App = () => {
@@ -49,7 +49,7 @@
 // export default App
 
 
-//1.2 Step 2
+//1.2 Step 2 - Edited
 
 // import React from 'react'
 
